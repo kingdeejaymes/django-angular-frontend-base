@@ -1,4 +1,5 @@
-# AppAngularFE
+# App Angular FrontEnd Base Code
+### Can integrate to Django REST and/or Other Backedn via REST Apis
 
 Open in Visual Studio
 
