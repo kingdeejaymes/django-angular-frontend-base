@@ -1,6 +1,6 @@
 # AppAngularFE
 
-Open in Visual Studio: /django-angular/AppAngularFE
+Open in Visual Studio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
@@ -8,12 +8,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 > `npm install bootstrap --save`
 
 then add to src/style.scss
-"@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";"
+
+> "@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";"
 
 then add to angular.json
-"scripts": [
-  "node_modules/bootstrap/dist/js/bootstrap.js"
-]
+
+> "scripts": [
+>   "node_modules/bootstrap/dist/js/bootstrap.js"
+> ]
 
 ### NPM Install
 Run `npm install` 
