@@ -21,6 +21,19 @@ then add to angular.json
 ### NPM Install
 Run `npm install` 
 
+[Optional] If you install bootstrap and you want the bootswatch, download the files from https://bootswatch.com/ for the template that you want:
+
+> bootstrap.css
+> bootstrap.min.css
+> _variables.scss
+
+and update the file in this directory:
+Instruction here: https://bootswatch.com/help/
+
+> node_modules/bootstrap/dist/css/bootstrap.css
+> node_modules/bootstrap/dist/css/bootstrap.min.css
+> node_modules/bootstrap/scss/_variables.scss
+
 ### Development server
 
 Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`. The app will automatically reload if you change any of the source files.
